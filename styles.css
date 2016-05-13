@@ -69,5 +69,13 @@
     height: 120px;
      
 }
+
+.custom-background { 
+    background-color: #191919; 
+    background-image: url('bgImage.png');
+    background-repeat: no-repeat; 
+    background-position: top center; 
+    background-attachment: fixed;
+}
 /* @end */
 
